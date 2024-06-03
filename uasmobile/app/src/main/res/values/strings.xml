@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">uas mobile</string>
+    <string name="title">Judul</string>
+    <string name="author">Penulis</string>
+    <string name="summary">Ringkasan</string>
+    <string name="year">Tahun</string>
+    <string name="inserted_at">Tanggal ditambahkan</string>
+    <string name="add_book">Tambahkan buku</string>
+    <string name="error_empty_field">Field tidak boleh kosong</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="added_to_favorite">Buku Ditambahkan ke Favorit</string>
+    <string name="removed_from_favorite">Buku Dihapus dari Favorit</string>
+    <string name="search">Cari Judul Buku</string>
+    <string name="bookshelf">Bookshelf</string>
+    <string name="success">Berhasil</string>
+    <string name="success_message">Buku berhasil ditambahkan</string>
+    <string name="back">Kembali</string>
+
+</resources>
